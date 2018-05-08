@@ -11,3 +11,5 @@ npm i 安装依赖
 npm run dev 开发模式 
 
 npm run build 组件库打包
+
+##build
